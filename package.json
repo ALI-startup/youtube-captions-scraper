@@ -2,7 +2,7 @@
   "name": "youtube-captions-scraper",
   "version": "2.0.0",
   "description": "Scrap youtube auto-generated captions",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "author": {
     "name": "Algolia, Inc.",
     "url": "https://www.algolia.com"
@@ -52,6 +52,5 @@
     "require": [
       "babel-register"
     ]
-  },
-  "type": "module"
+  }
 }
